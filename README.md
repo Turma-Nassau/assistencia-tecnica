@@ -13,16 +13,20 @@ O projeto sofrerá alterações de melhorias no futuro
 🤝Colaboradores
 xexeudev
 Estrutura de Dados
+
 Usuario
 Possibilidade de Fazer logins e Cadastros.
+    
     Usuario {
         id_user:1
         nome_completo:"Nome Usuario"
         email:"examplo@examplo.com"
         senha:"123LSKRdsa"
     }
+
 Serviços
 Adicionar serviços de conserto para impressora, notebooks e desktops.
+    
     conserto_impressora{
         id_serviço:0001
         marca_da_impressora:"Brother"
@@ -33,6 +37,7 @@ Adicionar serviços de conserto para impressora, notebooks e desktops.
         defeito:"Não liga"
         mais_informacoes:"impressora foi ligada no 220v e saiu fumaça"
     }
+    
     conserto_notedesk{
         id_serviço:0001
         marca:"Acer"
@@ -42,6 +47,7 @@ Adicionar serviços de conserto para impressora, notebooks e desktops.
         defeito:"Não da vídeo"
         mais_informacoes:"notebook está ligando mas não da vídeo"
     }
+    
     conserto_notedesk{
         id_serviço:0002
         marca:"Dell"
@@ -51,6 +57,7 @@ Adicionar serviços de conserto para impressora, notebooks e desktops.
         defeito:"Reiniciando"
         mais_informacoes:"Computador liga, mas fica reiniciando na tela de carregamento"
     }
+
 
 🎯Status do Projeto
 Em andamento
