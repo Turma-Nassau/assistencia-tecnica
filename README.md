@@ -6,12 +6,19 @@ Este site oferece consertos de notebooks/desktop e consertos de impressoras.
 - Consertos de notebooks, desktops e impressoras: Serviço de identificação de defeitos e conserto dos mesmos
 
 🔧Tecnologias Utilizadas
+
+
 **Front-end:** React
+
 **Back-end:** Node, Express, PostgreSQL
+
 🔜Implementações
+
 O projeto sofrerá alterações de melhorias no futuro
-🤝Colaboradores
+
+🤝Colaboradores:
 xexeudev
+
 Estrutura de Dados
 
 Usuario
